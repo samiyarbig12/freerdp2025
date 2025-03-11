@@ -43,7 +43,7 @@ services:
       - 3389:3389/udp
     stop_grace_period: 2m
 
--------------------------------------------------------
+## 🚀 Docker RUN
 
 cat windows10.yaml
 sudo docker-compose -f windows10.yaml up                                      
