@@ -17,9 +17,9 @@ pwd
 mkdir dockercom
 cd dockercom
 nano windows10.yaml
-
+---
 ## ✅ Docker configuration for win 10  
-
+---
 services:
   windows:
     image: dockurr/windows
