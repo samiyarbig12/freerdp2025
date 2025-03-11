@@ -15,7 +15,7 @@ sudo apt install docker.io docker-compose
 docker
 pwd
 mkdir dockercom
-cd dockercomp
+cd dockercom
 nano windows10.yaml
 
 ## ✅ Docker configuration for win 10  
