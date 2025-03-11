@@ -1,7 +1,12 @@
-# freerdp2025
-# Check The config File :
- windows10.yaml
-# Docker Installation
+# FreeRDP 2025
+
+## Check The Config File  
+**File:** `windows10.yaml`
+
+---
+
+## 🚀 Docker Installation  
+
 ```bash
 
 sudo su
@@ -13,8 +18,7 @@ mkdir dockercom
 cd dockercomp
 nano windows10.yaml
 
-# windows10.yaml
-```bash
+## ✅ Docker configuration for win 10  
 
 services:
   windows:
