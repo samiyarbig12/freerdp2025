@@ -8,6 +8,7 @@
 ## 🚀 Docker Installation  
 
 ```bash
+## 🚀 Installation  
 
 sudo su
 sudo apt update
